@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning. Cya soon!Hope this works! </h1>
+   <h1> Thankyou, Happy Learning. Cya soon! </h1>
 
   
 </form>
